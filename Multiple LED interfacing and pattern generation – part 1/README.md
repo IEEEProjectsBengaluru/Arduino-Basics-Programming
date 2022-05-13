@@ -11,8 +11,8 @@ A LED Bargraph is interfaced to Arduino Uno to generate few patterns.
 
 ## Development Tools Used:
 
-- Simulation  - PROTEUS 8
-- Programming - Arduino IDE
+- Simulation  - PROTEUS 7 Professional
+- Programming - Arduino IDE 1.8.15
 
 ## Hardware Connection:
 
