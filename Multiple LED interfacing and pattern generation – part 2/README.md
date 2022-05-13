@@ -27,7 +27,7 @@ A LED Bargraph is interfaced to Arduino Uno to generate few patterns.
 - Go to tools->select Board->select Arduino UNO
 - Click on “Verify” button and copy the generated hex file path from Arduino as described in this link
   https://www.instructables.com/HOW-TO-GET-HEX-FILE-FROM-ARDUINO-/
-- Go to PROTEUS 8->Click on Arduino Uno->Edit Component window will pop up ->paste the hex file path in Program file->Click OK
+- Go to PROTEUS ->Click on Arduino Uno->Edit Component window will pop up ->paste the hex file path in Program file->Click OK
  <img src=https://user-images.githubusercontent.com/84024571/134045169-35cc61e7-2f3e-4e02-8c82-73372514dfdb.PNG width="800" height="400">
 
 - Click on the Run button.
