@@ -1,16 +1,18 @@
-/* Problem Statement:
- *  This program is to generate LED patterns as shown in following video
- *  https://www.facebook.com/watch/?v=437404777682929 
+/* This program generates few LED blinking patterns using Arduino Uno
  * 
  * Hardware Component :  
- * Arduino Uno 
- * Led Bargraph
+ *      Arduino Uno 
+ *      Led Bargraph
  * 
  * Circuit info: 
- *  D4-D13 of Arduino Uno are connected to LEDs  
+ *      D4-D13 of Arduino Uno are connected to LEDs  
  *
- * Author : Sahana B G
- * Date: 30 Apr 2021
+ * Author : IEEE Projects Bengaluru
+ * 
+ * Contact us: 
+ *     Website: https://ieeeprojectsbengaluru.godaddysites.com/ 
+ *     Youtube Channel: https://www.youtube.com/channel/UCKEkm5M_eVhb_NLZtv-M8MA 
+ *
  */
 
 // Pins for declaring first and last pins of Arduino Uno
