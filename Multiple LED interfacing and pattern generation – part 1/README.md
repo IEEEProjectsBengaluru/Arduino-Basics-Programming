@@ -21,7 +21,7 @@ A LED Bargraph is interfaced to Arduino Uno to generate few patterns.
 ## Usage:
 
 - Download the schematic.pdsprj file->open in PROTEUS 8 tool
- <img src=https://user-images.githubusercontent.com/84024571/134037783-a8a64aa0-18ac-4730-854b-4eb2ec680c8f.PNG width="800" height="400">
+ <img src=https://github.com/IEEEProjectsBengaluru/Arduino-Basics-Programming/blob/main/Multiple%20LED%20interfacing%20and%20pattern%20generation%20%E2%80%93%20part%201/results/circuitConnections.png width="800" height="400">
 
 - Download code. ino and open in Arduino
 - Go to tools->select Board->select Arduino UNO
@@ -34,4 +34,4 @@ A LED Bargraph is interfaced to Arduino Uno to generate few patterns.
 
 ## Output:
 
- <img src=https://user-images.githubusercontent.com/84024571/134045736-d637c82d-0361-4054-a7ea-680921dc651a.PNG width="800" height="400">
+ <img src=https://github.com/IEEEProjectsBengaluru/Arduino-Basics-Programming/blob/main/Multiple%20LED%20interfacing%20and%20pattern%20generation%20%E2%80%93%20part%201/results/ezgif.com-gif-maker.gif width="800" height="400">
