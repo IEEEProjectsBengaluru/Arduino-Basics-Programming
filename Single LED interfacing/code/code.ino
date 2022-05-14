@@ -2,10 +2,10 @@
 
  * Hardware Component :  
  *      Arduino Uno 
- *      Led Bargraph
+ *      LED
  * 
  * Circuit info: 
- *      D8 of Arduino Uno are connected to a LED  
+ *      D8 of Arduino Uno is connected to a LED  
  *
  * Author : IEEE Projects Bengaluru
  * 
