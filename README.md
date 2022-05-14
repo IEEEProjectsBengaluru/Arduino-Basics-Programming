@@ -7,7 +7,7 @@ This repository contains few basic programs and schematic for Arduino
   - Single LED interfacing
   - Multiple LED interfacing and pattern generation – part 1
   - Multiple LED interfacing and pattern generation – part2
-- LED dimming
+- LED brightness control
 - Fast LED
 - Buttons and LED interfacing
   - Switch for turning on and off LED(s)
