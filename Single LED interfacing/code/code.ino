@@ -1,4 +1,4 @@
-/* This program bliks the led connected to Arduino for one second, repeatedly.
+/* This program blinks the led connected to Arduino for one second, repeatedly.
 
  * Hardware Component :  
  *      Arduino Uno 
