@@ -11,7 +11,7 @@ This repository contains few basic programs and schematic for Arduino
 - Fast LED
 - Buttons and LED interfacing
   - Switch for turning on and off LED(s)
-  - Blink LED for No of Button press times
+  - Blink LED for N no. of Button press times
   - Different Button press for LED patterns 
 - Keypad interfacing
   - LED blink n times for the number button pressed
