@@ -4,11 +4,11 @@
  *      Arduino Uno
  *      Buttons
  *      LED
- *  
- * HCircuit info: 
+ * 
+ * Circuit info: 
  *      D3 of Arduino Uno is connected to Button pin to count the number of times it is pressed
  *      D2 of Arduino Uno is connected to Button pin to start blinking the LED
- *      D13 of Arduino Uno is connected to Led
+ *      D13 of Arduino Uno is connected to LED
  *      
  * Contact us: 
  *     Website: https://ieeeprojectsbengaluru.godaddysites.com/ 
