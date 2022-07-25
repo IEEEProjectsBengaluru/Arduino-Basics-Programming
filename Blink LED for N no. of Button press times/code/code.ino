@@ -1,4 +1,4 @@
-/* This program blinks the LED for the number of time Button is pressed
+/* This program blinks LED for the number of time Button is pressed
  * 
  * Hardware Component:
  *      Arduino Uno
